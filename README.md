@@ -1,9 +1,9 @@
 # Unity-101-Okey-Rummikub-Online
 ![Rummikub](https://github.com/BetCodex/Unity-101-Okey-Rummikub-Online/assets/162466962/45fc90c4-d106-4fc2-b7cb-696620b16e80)
-![101 Okey](https://github.com/BetCodex/Unity-101-Okey-Rummikub-Online/assets/162466962/4b3343a6-13c0-4596-8c35-66842c4487c9)
+![101Okey](https://github.com/BetCodex/Unity-101-Okey-Rummikub-Online/assets/162466962/4b3343a6-13c0-4596-8c35-66842c4487c9)
 <br>
 <br>
-Made with Unity 3D game engine. 101 Okey Source Code File.
+Made with Unity 3D game engine. 101 Okey Full Source Code.
 <br>
 <br>
 Unity 2021.3.14f1 version was used. It uses Photon PUN as Server.
