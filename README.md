@@ -12,9 +12,6 @@ Unity 2021.3.14f1 version was used. It uses Photon PUN as Server.
 <b>Video:</b> https://youtu.be/XZ41NhJz4is
 <br>
 <br>
-<b>Link:</b> https://betcodex.com/item/101-okey-rummikub-online
-<br>
-<br>
 <b>Demo Apk:</b> https://www.dropbox.com/scl/fi/1f2bh9rt0k1rxqjqbb2qk/101okey.apk?rlkey=wgd4jvmduzjzoyavxddvkh9bx&dl=0
 <br>
 <br>
